@@ -1240,6 +1240,9 @@ Brill, 2014.
 Sir Monier Monier-Williams. *Dictionary, Sanskrit-English*, Universität
 zu Köln, 1899, <https://www.sanskrit-lexicon.uni-koeln.de>.
 
+Swami Abhedānanda. *Vedanta Philosophy Three Lectures.* The Vedanta
+Society, 1901.
+
 Swami Vivekananda. "A Study of the Sāṅkhya Philosophy." *The Complete
 Works of the Swami Vivekananda, Part 2*, edited by Swami Prajnananda,
 Mayavati Memorial Edition ed., Prabuddha Bharat Office, 1915, pp.
