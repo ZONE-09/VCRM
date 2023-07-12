@@ -1209,7 +1209,7 @@ Gupta, Mahendranath. *The Gospel of Sri Ramakrishna.* Translated by
 Swami Nikhilananda, Ramakrishna-Vivekananda Center of New York, 1942.
 
 Jefferson, Thomas. *Declaration of Independence.* Edited by Second 
-Continental Congress, The Dunlap Broadside,John Dunlap, 1776.
+Continental Congress, The Dunlap Broadside, John Dunlap, 1776.
 
 Kapoor, Raj. "Mera Naam Joker." R. K. Films, 1970.
 
@@ -1386,7 +1386,7 @@ Bibelanstalt, 1898, Eberhard Nestle.
     Foundation, 2004.
 
 [^28]: Jefferson, Thomas. *Declaration of Independence.* Edited by Second 
-Continental Congress, The Dunlap Broadside,John Dunlap, 1776.
+Continental Congress, The Dunlap Broadside, John Dunlap, 1776.
 
 [^29]: Publius. *The Federalist.* John and Andrew M'Lean, 1788.
 
